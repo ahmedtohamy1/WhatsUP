@@ -173,7 +173,7 @@
     <string name="whatsapp_in_background">WhatsApp запущен и работает</string>
     <string name="whatsapp_is_not_running_or_has_not_been_activated_in_lsposed">Whatsapp не запущен или не был активирован в Lsposed</string>
     <string name="business_is_not_running_or_has_not_been_activated_in_lsposed">Whatsapp Business не запущен или не был активирован в Lsposed</string>
-    <string name="restart_wpp">Необходимо перезапустить WhatsApp, чтобы изменения вступили в силу в Wa Enhancer. Перезапустить?</string>
+    <string name="restart_wpp">Необходимо перезапустить WhatsApp, чтобы изменения вступили в силу в WhatsUP. Перезапустить?</string>
     <string name="version_s_not_listed">Версия %s не указана</string>
     <string name="media">Медиа</string>
     <string name="show_button_to_send_blue_tick">Показать кнопку для отправки синей галочки</string>

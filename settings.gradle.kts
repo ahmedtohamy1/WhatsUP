@@ -21,5 +21,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Wa Enhancer"
+rootProject.name = "WhatsUP"
 include(":app")

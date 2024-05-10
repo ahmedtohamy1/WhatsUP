@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.wmods.wppenhacer"
+    namespace = "com.agmad.whatsup"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.wmods.wppenhacer"
+        applicationId = "com.agmad.whatsup"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

@@ -173,7 +173,7 @@
     <string name="whatsapp_in_background">WhatsApp em segundo plano</string>
     <string name="whatsapp_is_not_running_or_has_not_been_activated_in_lsposed">O Whatsapp não está em execução ou não foi ativado no Lsposed</string>
     <string name="business_is_not_running_or_has_not_been_activated_in_lsposed">O Business não está funcionando ou não foi ativado em Lsposed</string>
-    <string name="restart_wpp">É necessário reiniciar o WhatsApp para que as alterações no Wa Enhancer tenham efeito.\n\n Deseja reiniciar?</string>
+    <string name="restart_wpp">É necessário reiniciar o WhatsApp para que as alterações no WhatsUP tenham efeito.\n\n Deseja reiniciar?</string>
     <string name="version_s_not_listed">Versão %s não listada</string>
     <string name="media">Mídia</string>
     <string name="show_button_to_send_blue_tick">Exibir botão para enviar marcas azuis</string>
