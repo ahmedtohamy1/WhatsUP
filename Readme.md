@@ -1,9 +1,9 @@
 <div align="center">
 
-# Wa Enhancer
+# WhatsUP
 
-Wa Enhancer is an Xposed module that enhances your Whatsapp experience.<br/><br/>
-Please note that this project is currently in development, so bugs and crashes may occur. If you encounter any issues report them in our group or create an [issues](https://github.com/Dev4Mod/WaEnhancer/issues) here.
+WhatsUP is an X(L)posed module that enhances your Whatsapp experience.<br/><br/>
+Please note that this project is a fork of WaEnhancer from dev4mod all credits to him for the great work, project currently in development, so bugs and crashes may occur. If you encounter any issues report them in our group or create an [issues](https://github.com/ahmedtohamy1/WhatsUP/issues) here.
 </div>
 
 
@@ -43,6 +43,8 @@ Please note that this project is currently in development, so bugs and crashes m
 - `Hide Tabs on Home`
 - `Enable IGStatus on Home Screen`
 - `Filter Chats`
+- `Icon for freezing last seen`
+- `Icon for quick restart app`
 </details>  
 
 <details closed>
@@ -79,16 +81,16 @@ Please note that this project is currently in development, so bugs and crashes m
 ## Installation
 1. Ensure that your device is rooted.
 2. Install the Xposed Framework on your device.
-3. Download the Wa Enhancer from the [Actions](https://github.com/Dev4Mod/WaEnhancer/actions) section.
-4. Install the Wa Enhancer APK.
-5. Enable the Wa Enhancer module in the Xposed Installer app.
+3. Download the Wa Enhancer from the [Actions](https://github.com/ahmedtohamy1/WhatsUP/actions) section.
+4. Install the WhatsUP APK.
+5. Enable the WhatsUP module in the X(L)posed Installer app.
 
 ## Support
-If you encounter any issues or have questions about Wa Enhancer, please [Visit Telegram](https://t.me/waenhancer).
+If you encounter any issues or have questions about Wa Enhancer, please [Visit Telegram](https://t.me/agamdspace).
 
 ## License
 This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Note**: Please use Wa Enhancer responsibly and in compliance with the terms and conditions of the apps you are modifying. Misuse of this tool may lead to legal consequences.
+**Note**: Please use WhatsUP responsibly and in compliance with the terms and conditions of the apps you are modifying. Misuse of this tool may lead to legal consequences.
