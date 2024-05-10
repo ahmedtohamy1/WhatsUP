@@ -2,9 +2,9 @@ name: Android CI
 
 on:
   push:
-    branches: [ "master", "dev" ]
+    branches: [ "stable", "dev" ]
   pull_request:
-    branches: [ "master", "dev" ]
+    branches: [ "stable", "dev" ]
 
 jobs:
   build:
@@ -45,7 +45,7 @@ jobs:
           path: app/build/outputs/apk/debug/app-debug.apk
 
       - name: Post to channel
-        if: ${{ success() && github.ref == 'refs/heads/master' && github.ref_type != 'tag' }}
+        if: ${{ success() && github.ref == 'refs/heads/stable' && github.ref_type != 'tag' }}
         env:
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
